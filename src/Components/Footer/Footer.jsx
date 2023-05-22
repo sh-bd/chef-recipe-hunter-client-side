@@ -77,7 +77,7 @@ const Footer = () => {
           </div>
         </div>
         <p className="text-center mt-5 font-semibold text-base text-black dark:text-black">
-          Copyright © 2023 Chef Recipe Hunter. All Rights Reserved.
+          © 2023 Chef Recipe Hunter. All Rights Reserved.
         </p>
       </footer>
     </div>
