@@ -156,7 +156,7 @@ const Register = () => {
           </div>
         </form>
 
-        <p className="mt-8  font-light text-center text-gray-700">
+        <p className="mt-8 text-center text-gray-700">
           Already have an account?
           <Link to="/login" className="font-medium ml-2 text-orange-600 hover:underline">Login Now!</Link>
         </p>
