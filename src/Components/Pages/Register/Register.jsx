@@ -144,9 +144,7 @@ const Register = () => {
               />
               <span className="ml-2">
                 I agree to the
-                <Link className="text-primary ml-2" to="/terms">
-                  terms and conditions
-                </Link>
+                <Link className="text-primary ml-2" to="/terms-conditions">terms and conditions</Link>
               </span>
             </label>
           </div>
@@ -154,22 +152,13 @@ const Register = () => {
           <div className="mt-6">
             <button
               className="btn btn-primary w-full tracking-wide "
-              type="submit"
-              disabled={!isChecked}
-            >
-              Register
-            </button>
+              type="submit" disabled={!isChecked}>Register</button>
           </div>
         </form>
 
         <p className="mt-8  font-light text-center text-gray-700">
           Already have an account?
-          <Link
-            to="/login"
-            className="font-medium ml-2 text-orange-600 hover:underline"
-          >
-            Login
-          </Link>
+          <Link to="/login" className="font-medium ml-2 text-orange-600 hover:underline">Login Now!</Link>
         </p>
         <div className="text-center my-5">
           <p className="text-red-700">{error}</p>
