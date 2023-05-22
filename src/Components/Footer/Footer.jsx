@@ -68,7 +68,7 @@ const Footer = () => {
               </p>
               <ul className="flex flex-col space-y-4 font-medium text-[14px] text-black dark:text-black">
                 <li>Privacy Policy</li>
-                <li>Terms of Service</li>
+                <li>Terms & Conditions</li>
                 <li>Cookie Policy</li>
                 <li>Disclaimer</li>
                 <li>Media Policy</li>
