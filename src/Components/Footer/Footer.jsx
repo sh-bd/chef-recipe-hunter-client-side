@@ -40,7 +40,7 @@ const Footer = () => {
           <div className="grid grid-cols-2 md:grid-cols-3 gap-12 mt-8 lg:mt-0">
             <div className="mb-4">
               <p className="text-lg font-semibold text-black dark:text-black mb-6">
-                Our Stores
+                Our Branches
               </p>
               <ul className="flex flex-col space-y-4 font-medium text-[14px] text-black dark:text-black">
                 <li>Washington</li>
@@ -55,11 +55,11 @@ const Footer = () => {
                 Services
               </p>
               <ul className="flex flex-col space-y-4 font-medium text-[14px] text-black dark:text-black">
-                <li>UI / UX Design</li>
-                <li>App Development</li>
-                <li>API reference</li>
-                <li>API status</li>
-                <li>Documentation</li>
+                <li>Menu Planning</li>
+                <li>Food Preparation</li>
+                <li>Culinary Consulting</li>
+                <li>Private Chef</li>
+                <li>Cooking Classes</li>
               </ul>
             </div>
             <div className="mb-4">
