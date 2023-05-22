@@ -72,7 +72,7 @@ const Register = () => {
     <div className="relative mt-5 flex flex-col justify-center  overflow-hidden">
       <div className="w-full p-6 m-auto bg-white rounded-md shadow-xl lg:max-w-xl">
         <h1 className="text-3xl font-semibold text-center text-black-700 uppercase">
-          Please Register
+          Register
         </h1>
         <form onSubmit={handleRegistration} className="mt-6">
           <div className="mb-2">
