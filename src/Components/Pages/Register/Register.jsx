@@ -142,9 +142,7 @@ const Register = () => {
                 checked={isChecked}
                 onChange={handleCheckboxChange}
               />
-              <span className="ml-2">
-                I agree to the
-                <Link className="text-primary ml-2" to="/terms-conditions">terms and conditions</Link>
+              <span className="ml-2">I agree to the<Link className="text-primary ml-2" to="/terms-conditions">terms and conditions</Link>.
               </span>
             </label>
           </div>
