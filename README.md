@@ -7,9 +7,9 @@ Client link – [https://assignment-10-4a34a.web.app/](https://assignment-10-4a3
 
 Server link - [https://chef-recipe-hunter-server-lake.vercel.app/](https://chef-recipe-hunter-server-lake.vercel.app/)
 
-Client Repository - [https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-sh-bd](https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-sh-bd)
+Client repository - [https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-sh-bd](https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-sh-bd)
 
-Server Repository - [https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-sh-bd](https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-sh-bd)
+Server repository - [https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-sh-bd](https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-sh-bd)
 
 ## Languages and Tools:
 <div align="left">
