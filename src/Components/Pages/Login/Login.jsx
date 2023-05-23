@@ -95,7 +95,7 @@ const Login = () => {
             Forget Password?
           </Link>
           <div className="mt-6">
-            <button className="w-full px-4 py-2 tracking-wide text-white transition-colors duration-200 transform btn btn-primary  rounded-md hover:bg-pink-600 focus:outline-none focus:bg-orange-400">Login</button>
+            <button className="w-full px-4 py-2 btn btn-primary w-full tracking-wide text-white">Login</button>
           </div>
         </form>
         <div className="relative flex items-center justify-center w-full mt-6 border border-t">

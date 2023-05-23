@@ -149,7 +149,7 @@ const Register = () => {
 
           <div className="mt-6">
             <button
-              className="btn btn-primary w-full tracking-wide "
+              className="btn btn-primary w-full tracking-wide text-white"
               type="submit" disabled={!isChecked}>Register</button>
           </div>
         </form>
