@@ -1,5 +1,6 @@
 import React from "react";
 import { FaFacebook, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   const handleSubscribe = (event) => {
@@ -77,7 +78,7 @@ const Footer = () => {
           </div>
         </div>
         <p className="text-center mt-5 font-semibold text-base text-black dark:text-black">
-          © 2023 Chef Recipe Hunter. All Rights Reserved.
+          © 2023 <Link to={'/'} className="text-red-500">Chef Recipe Hunter</Link>. All Rights Reserved.
         </p>
       </footer>
     </div>

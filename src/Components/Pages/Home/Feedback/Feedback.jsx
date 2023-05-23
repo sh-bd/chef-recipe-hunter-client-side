@@ -25,7 +25,7 @@ const Feedback = () => {
               <p className="text-lg font-semibold text-black mt-4">
                 John Doe
               </p>
-              <p className="mt-1 text-base text-gray-600">Traveller</p>
+              <p className="text-base text-gray-600">Traveller</p>
             </div>
           </div>
         </div>
@@ -50,7 +50,7 @@ const Feedback = () => {
               <p className="text-lg font-semibold text-black  mt-4">
                 Shakira
               </p>
-              <p className="mt-1 text-base text-gray-600">Singer</p>
+              <p className="text-base text-gray-600">Singer</p>
             </div>
           </div>
         </div>

@@ -1,7 +1,7 @@
-import React, { createContext, useState } from "react";
+import React from "react";
 import { FaThumbsUp } from "react-icons/fa";
-import { Link } from "react-router-dom";
 import LazyLoad from "react-lazy-load";
+import { Link } from "react-router-dom";
 
 const ChefCard = ({ chef }) => {
   const {
@@ -15,7 +15,7 @@ const ChefCard = ({ chef }) => {
   } = chef;
   return (
     <>
-      <div className="card w-96 mx-auto bg-base-100 shadow-xl">
+      <div className="card mt-3 w-96 mx-auto bg-base-100 shadow-xl">
         <figure>
           <LazyLoad
             className="LazyLoad"
