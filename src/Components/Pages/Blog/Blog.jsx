@@ -6,7 +6,7 @@ const Blog = () => {
   const options = {
     orientation: "landscape",
     unit: "in",
-    format: [6, 15],
+    format: [7, 15],
   };
 
   return (
@@ -29,10 +29,7 @@ const Blog = () => {
               components.
             </h3>
             <p className="text-xl ms-4 text-black">
-              Ans: Uncontrolled components are managed by the DOM, while
-              controlled components are managed by React. Controlled components
-              provide more control and can handle input validation and state
-              changes.
+              Ans: Uncontrolled components are those whose states are managed by the DOM, that means the value of the component is stored in the DOM and it has a very limited control over the state. On the other hand, controlled components are managed by the parent components. So, parent component has the control over it's state.
             </p>
           </div>
           <div>
@@ -40,11 +37,7 @@ const Blog = () => {
               Q: How to validate React props using PropTypes?
             </h3>
             <p className="text-xl ms-4 text-black">
-              Ans: In React, developers can use the PropTypes library to
-              validate the type and shape of props passed to a component. To use
-              PropTypes, import the library at the top of the file, and then
-              define the PropTypes for each prop passed to the component using
-              the propTypes object.
+              Ans: It is a by default included react package library that allow developers to validate props to components. To use ProTypes, the developer must import ProTypes library and assign a property to the component so that it can be used.
             </p>
           </div>
           <div>
@@ -52,10 +45,8 @@ const Blog = () => {
               Q: Tell us the difference between nodejs and express js.
             </h3>
             <p className="text-xl ms-4 text-black">
-              Ans: Node.js is a JavaScript runtime environment that enables
-              developers to run JavaScript on the server-side, while Express.js
-              is a web application framework built on top of Node.js, providing
-              additional features for building web applications.
+              Ans: Node.js is a runtime environment that enable developers to run JavaScript on the server-side (outside of a browser). On the other hand, Express.js is a web application framework built on top of Node.js, provides
+              a lot of features that make it easy for a developer to build web application. They both use V8 engine.
             </p>
           </div>
           <div>
@@ -63,10 +54,7 @@ const Blog = () => {
               Q: What is a custom hook, and why will you create a custom hook??
             </h3>
             <p className="text-xl ms-4 text-black">
-              Ans: Custom hooks are reusable functions in React that allow
-              developers to extract and share logic between components.
-              Developers create custom hooks to reduce code duplication and
-              improve code readability and maintainability.
+              Ans: Custom hooks are a feature of React that allows developers to encapsulate reusable logic in functions. This can be used to reduce code duplication, improve readability, and make code more maintainable. Custom hooks can be used in any React component, and they can be reused across multiple components.
             </p>
           </div>
         </div>
