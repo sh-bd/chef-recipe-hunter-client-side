@@ -19,17 +19,13 @@ const Feedback = () => {
             <div className="mt-8">
               <blockquote>
                 <p className="text-xl text-black">
-                  “Chef Recipe Hunter has a great collection of recipes, but it
-                  would be helpful to have a search bar or filter options to
-                  easily find specific recipes. This would improve the user
-                  experience and make it easier for users to navigate through
-                  the website.”
+                  “Chef Recipe Hunter is a culinary gem! Their website offers a delightful collection of diverse and easy-to-follow recipes. From delectable appetizers to mouthwatering desserts, it's a treasure trove for food enthusiasts. Highly recommended! #FoodieHeaven”
                 </p>
               </blockquote>
               <p className="text-lg font-semibold text-black mt-4">
                 John Doe
               </p>
-              <p className="mt-1 text-base text-gray-600">Frontend Developer</p>
+              <p className="mt-1 text-base text-gray-600">Traveller</p>
             </div>
           </div>
         </div>
@@ -39,8 +35,8 @@ const Feedback = () => {
               <div className="relative flex-shrink-0 w-48 min-h-min">
                 <img
                   className="relative object-cover w-28 h-28 rounded-full p-1 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500"
-                  src="https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
-                  alt="Ketty Perry"
+                  src="https://media.cnn.com/api/v1/images/stellar/prod/220801142443-shakira.jpg?c=original"
+                  alt="Shakira"
                 />
               </div>
             </div>
@@ -48,17 +44,13 @@ const Feedback = () => {
             <div className="mt-8">
               <blockquote>
                 <p className="text-xl text-black ">
-                  “Chef Recipe Hunter design looks visually appealing, but some of
-                  the recipe descriptions could use more details, such as
-                  cooking times and serving sizes. Adding this information would
-                  make it easier for users to plan their meals and cook the
-                  recipes more efficiently.”
+                  “Chef Recipe Hunter is a game-changer! Their website offers a treasure trove of delectable recipes, with clear instructions and mouthwatering visuals. From novice cooks to seasoned chefs, this site is a must-visit for all food enthusiasts. Five stars! 🌟🍽️ #recipeheaven”
                 </p>
               </blockquote>
               <p className="text-lg font-semibold text-black  mt-4">
-                Ketty Perry
+                Shakira
               </p>
-              <p className="mt-1 text-base text-gray-600">UI/UX Designer</p>
+              <p className="mt-1 text-base text-gray-600">Singer</p>
             </div>
           </div>
         </div>
