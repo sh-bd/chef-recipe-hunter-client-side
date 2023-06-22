@@ -7,9 +7,9 @@ Client link – [https://assignment-10-4a34a.web.app/](https://assignment-10-4a3
 
 Server link - [https://chef-recipe-hunter-server-lake.vercel.app/](https://chef-recipe-hunter-server-lake.vercel.app/)
 
-Client repository - [https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-sh-bd](https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-sh-bd)
+Client repository - [https://github.com/sh-bd/chef-recipe-hunter-client-side](https://github.com/sh-bd/chef-recipe-hunter-client-side)
 
-Server repository - [https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-sh-bd](https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-sh-bd)
+Server repository - [https://github.com/sh-bd/chef-recipe-hunter-server-side](https://github.com/sh-bd/chef-recipe-hunter-server-side)
 
 ## Languages and Tools:
 <div align="left">
@@ -29,13 +29,13 @@ Server repository - [https://github.com/programming-hero-web-course-4/b7a10-chef
 Clone the project
 
 ```bash
-  git clone https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-sh-bd.git
+  git clone https://github.com/sh-bd/chef-recipe-hunter-client-side.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd b7a10-chef-recipe-hunter-client-side-sh-bd
+  cd chef-recipe-hunter-client-side
 ```
 
 Install dependencies
